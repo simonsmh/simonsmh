@@ -1,7 +1,7 @@
 # Simon Shi
 Hi! Nice to meet you! 🧐
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=simonsmh&hide_border=true">
+[<img align="right" src="https://github-readme-stats.vercel.app/api?username=simonsmh&hide_border=true">](#)
 
 ## Intro
 - 💻 Arch Linux user
